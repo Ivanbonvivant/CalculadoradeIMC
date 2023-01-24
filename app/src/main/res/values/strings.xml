@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Projeto10DChallenge</string>
+    <string name="digite_sua_altura">Digite sua altura</string>
+    <string name="message_classificacao">Classificação: %1$s!</string>
+</resources>
